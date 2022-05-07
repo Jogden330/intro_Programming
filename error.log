@@ -1,0 +1,17 @@
+Error.log file
+----------------------------------------------------------------------
+Just BASIC will log hard errors in this file.  This means that as a
+user of Just BASIC, you will probably not be able to understand
+much of what you read here.  More than anything, this information is
+useful to the makers of Just BASIC.  When you have an error notice
+that mentions it has added information to this file, please make sure
+to gather this information when reporting a problem to Shoptalk
+Systems.  The information has date and time information, and new
+information is always added to the end of the file, so you do not
+need to send the whole file, but just the part related to the problem
+you are experiencing.  Send a detailed explanation about how to
+reproduce the problem along with a small example program if possible
+and also the error.log information to support@justbasic.com
+
+Thanks!
+
